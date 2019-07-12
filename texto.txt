@@ -1,0 +1,7 @@
+El display flex siempre va sobre el elemento padre
+
+El list style none sirve para quitar el punto 
+
+El max-width es el maximo de ancho
+
+El width es el ancho, le digo que ocupe el 90% de estos max-width 
